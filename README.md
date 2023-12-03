@@ -1,4 +1,4 @@
-## Picture Gallery
+## Picture Gallery 🖼
 
 A responsive picture gallery made with React.js is a web application component designed to display a collection of images in an organized and visually appealing manner.
 
