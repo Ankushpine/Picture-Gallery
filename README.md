@@ -4,6 +4,10 @@ A responsive picture gallery made with React.js is a web application component d
 
 ### Hosted link: https://pine-picture-gallery.netlify.app
 
+### 🛠️ Tech Stack:
+- React JS: Harnessing the power of React for a modular and efficient codebase.
+- CSS3: Stylish and responsive design for a modern look.
+
 ## How to setup the project on local system
 - Clone this project to your local system.
 - Run `npm install` to install required dependencies.
